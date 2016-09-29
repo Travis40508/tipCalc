@@ -86,7 +86,7 @@ $("#but3").on("click", function () {
   $("#total").css("display", "none");
   $("#input1").val(null);
   $("#split").css("display", "none");
-  $("#input2").val(null);
+  $("#input2").val(1);
   $("#input1").val(null);
   $("#dropdown").val(null);
 });
